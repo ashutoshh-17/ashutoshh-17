@@ -1,5 +1,5 @@
 <h1 align="center">Hi👋 I'm Ashutosh Waghire</h1>
-<h3 align="center">A typical Coder & Engineer!!</h3>
+<h3 align="center">A Typical Coder & Engineer!!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=acegx25&label=Profile%20views&color=0e75b6&style=flat" alt="ashutoshh-17" /> </p>
 
